@@ -71,11 +71,11 @@ document.addEventListener('DOMContentLoaded', function() {
     if (btnCopiar) {
         btnCopiar.addEventListener('click', function() {
             const datos = `
-Nombre: Anatolli Devorak Qwerty
-Empresa: Duckling Productions / Ganzo Island
-Teléfono: +52 951 123 2222
-Correo: contacto@duckling.com
-Web: https://duckling.com
+Nombre: Dayana Itzel Esquivel Medina
+Empresa: Dayana Esquivel 
+Teléfono: +52 951 466 0661
+Correo: dayana34em@institutosanpablo.edu.mx
+Web: https://dayana34em-cmd.github.io/de/
             `.trim();
 
             // Usar clipboard API con fallback
